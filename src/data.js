@@ -21,40 +21,52 @@ import Tools11 from "/assets/tools/figma.png";
 export const listTools = [
   {
     id: 1,
-    gambar: Tools1,
-    nama: "SMA Nuris Jember",
-    ket: "Sekolah Menengah Atas",
-    dad: "100",
-  },
-  {
-    id: 2,
     gambar: Tools2,
     nama: "Graparis",
     ket: "Ekskul Paskibra Nuris",
     dad: "200",
   },
   {
-    id: 3,
+    id: 2,
     gambar: Tools3,
     nama: "M-LANGUAGE NURIS",
     ket: "Organisasi Bahasa Sekolah",
     dad: "300",
   },
   {
-    id: 4,
+    id: 3,
     gambar: Tools4,
     nama: "Public Speaking",
     ket: "Ekskul English Speech",
     dad: "400",
   },
-  {
-    id: 5,
-    gambar: Tools5,
-    nama: "Universitas Negri Malang",
-    ket: "Prodi Pendidikan Bahasa Inggris",
-    dad: "500",
-  },
 ];
+
+export const listTools2 = [
+  {
+    id: 1,
+    gambar: Tools1,
+    nama: "SMP Nuris Jember",
+    ket: "Sekolah Menengah Pertama",
+    dad: "100"
+
+  },
+  {
+    id: 2,
+    gambar: Tools1,
+    nama: "SMA Nuris Jember",
+    ket: "Sekolaah Menengah Atas",
+    dad: "100",
+  },
+  {
+    id: 3,
+    gambar: Tools5,
+    nama: "Universitas Negeri Malang",
+    ket: "Prodi Pendidikan Bahasa Inggris",
+    dad: "200"
+  }
+
+]
 
 import Proyek1 from "/assets/proyek/proyek1.webp";
 import Proyek2 from "/assets/proyek/proyek2.webp";
