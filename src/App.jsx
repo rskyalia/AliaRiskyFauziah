@@ -6,7 +6,7 @@ function App() {
       <div className="hero grid md:grid-cols-2 items-center pt-1 xl:gap-0 gap-6 grid-cols-1">
         <div className="animate__animated animate__fadeInUp animate__delay-2s">
           <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
-            <img
+            <img   
               src={DataImage.HeroImage}
               alt=""
               className="w-10 rounded-md"

@@ -64,7 +64,7 @@ export const listTools2 = [
     nama: "Universitas Negeri Malang",
     ket: "Prodi Pendidikan Bahasa Inggris",
     dad: "200"
-  }
+  }   
 
 ]
 
