@@ -138,7 +138,7 @@ function App() {
         </div>
       </div>
 
-      <div className="tentang mt-32 py-10" id="tentang">
+      <div className="tentang mt-16 py-5" id="tentang">
         <div className="tools mt-32 ">
           <h1
             className="text-4xl/snug font-bold mb-4"

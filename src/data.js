@@ -71,7 +71,7 @@ export const listTools2 = [
 import Proyek1 from "/assets/proyek/proyek1.webp";
 import Proyek2 from "/assets/proyek/proyek2.webp";
 import Proyek3 from "/assets/proyek/proyek3.webp";
-import Proyek4 from "/assets/proyek/proyek4.webp";
+import Proyek4 from "/assets/proyek/volunteer.webp";
 import Proyek5 from "/assets/proyek/proyek5.webp";
 import Proyek6 from "/assets/proyek/proyek6.webp";
 
@@ -98,6 +98,14 @@ export const listProyek = [
     nama: "Karya Sastra",
     desk: "Resensi Karya Sastra SMP Nuris Jember: Iringan Rindu",
     tools: ["Essay", "Competition", "Literature"],
+    dad: "400",
+  },
+  {
+    id: 4,
+    gambar: Proyek4,
+    nama: "Jelajah Tanah Desa",
+    desk: "Riset dan eksplorasi ke desa untuk memahami kehidupan masyarakat lokal",
+    tools: ["Organization", "Activity", "Volunteer"],
     dad: "400",
   },
 ];
